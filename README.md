@@ -13,15 +13,24 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-F0F0F0?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
 
+---
 
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,python,python,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=java,c,python,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react" />
 </div>
+
+---
+
+<h2 align="center">My contributions</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
