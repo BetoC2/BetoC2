@@ -30,7 +30,6 @@
 
 <h2 align="center">My contributions</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-snake.svg" />
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-contribution-grid-snake.svg
