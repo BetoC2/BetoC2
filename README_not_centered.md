@@ -6,6 +6,13 @@
 
 Actualmente estoy terminando de estudiar mi carrera en ingenieria en sistemas computacionales, me encanta y apasiona programar. Tengo conocimientos en desarrollo fullstack, en administración de sistemas y en bussiness intelligence. Mi objetivo es desarrollar software de calidad que atienda a problemas reales de forma efectiva y elegante.
 
+<a href="https://www.linkedin.com/in/alberto-renteria-a252412b9" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F0F0F0?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+</a>
+
 ---
 
 ## Languages-Frameworks-Tools
