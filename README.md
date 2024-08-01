@@ -43,3 +43,6 @@ I am currently finishing my studies in Computer Systems Engineering. I love and 
   <img alt="github-snake" src="https://raw.githubusercontent.com/BetoC2/BetoC2/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<br />
+
+This README was inspired on: [These](./sources.md)
