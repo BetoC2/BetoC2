@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alberto!;" />
 </h1>
 
-<h3> </h3>
+<h3>Estudiante de ingenieria en sistemas</h3>
+
+Actualmente estoy terminando de estudiar mi carrera en ingenieria en sistemas computacionales, me encanta y apasiona programar. Tengo conocimientos en desarrollo fullstack, en administración de sistemas y en bussiness intelligence. Mi objetivo es desarrollar software de calidad que atienda a problemas reales de forma efectiva y elegante.
 
 ---
 
