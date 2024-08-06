@@ -9,7 +9,7 @@ I am currently finishing my studies in Computer Systems Engineering. I love and 
 <a href="https://www.linkedin.com/in/alberto-renteria-a252412b9" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
-<a href="" target="_blank">
+<a href="https://betoc2.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-E05D44?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
 </a>
 <a href="https://github.com/BetoC2?tab=repositories&sort=stargazers">
